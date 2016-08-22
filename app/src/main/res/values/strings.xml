@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Example Code</string>
+    <string name="button">Button</string>
+    <string name="edit_text">Input text here</string>
+
+        <string-array name="spinner">
+            <item>Mercury</item>
+            <item>Venus</item>
+            <item>Earth</item>
+            <item>Mars</item>
+            <item>Jupiter</item>
+            <item>Saturn</item>
+            <item>Uranus</item>
+            <item>Neptune</item>
+        </string-array>
+
+    <string name="check_me">Check Me</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="switch_text">Switch me on or off</string>
+    <string name="search">Search entry here</string>
+</resources>
